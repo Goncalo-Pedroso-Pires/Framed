@@ -77,5 +77,6 @@ DerivedDataCache/*
 **/DerivedDataCache/
 **/Saved/
 **/Intermediate/
+**/Build/
 **/Binaries/
 MyProject/MyProject.uproject
